@@ -26,6 +26,9 @@
     "url": "https://github.com/risenforces/craco-alias/issues"
   },
   "homepage": "https://github.com/risenforces/craco-alias#readme",
+  "optionalDependencies": {
+    "typescript": "^2.0.2"
+  },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "eslint": "^6.2.2",
